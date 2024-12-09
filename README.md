@@ -3,19 +3,12 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+<h1>microsoft azure subscriptions - Prerequisites and Installation</h1>
+This tutorial outlines how to create a microsoft azure subscriptions.<br />
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
@@ -23,34 +16,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Microsoft Azure Account
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/KU0Sk2L" height="80%" width="80%" alt="Resource group step 1"/>
+<img src="https://imgur.com/6Ec0yTW" height="80%" width="80%" alt="Resource group step 2"/>
+<img src="https://imgur.com/a9CUPNh" height="80%" width="80%" alt="Resource group step 3"/>
+<img src="https://imgur.com/VgA8ijU" height="80%" width="80%" alt="Resource group step 4"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We are going to create our resource group which is like folder that holds things like a storage account or other technological groups within microsoft azure.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/aERYy0v" height="80%" width="80%" alt="Storage Acconnt Step 1"/>
+<img src="https://imgur.com/GoJiqsI" height="80%" width="80%" alt="Storage Acconnt Step 2"/>
+<img src="https://imgur.com/oS1JZA3" height="80%" width="80%" alt="Storage Acconnt Step 3"/>
+<img src="https://imgur.com/aERYy0v" height="80%" width="80%" alt="Storage Acconnt Step 4"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Finally we used example of what we meant by the resource group being like a folder. So lets create storage account that will be our database that stores things like documents ,but in simple terms any data we put into it. Once created, we will be able to share files with other people on our subscriptions, but it can be used for many other things aswell.
 </p>
 <br />
