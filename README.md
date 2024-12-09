@@ -1,4 +1,4 @@
-# creating-microsoft-azure-subscriptions
+# Creating-Microsoft-Azure-Subscriptions
 <p align="center">
 <img src="https://imgur.com/iqxPdaj.png" alt="LOGO"/>
 </p>
