@@ -1,6 +1,6 @@
 # creating-microsoft-azure-subscriptions
 <p align="center">
-<img src="https://imgur.com/ce1bf2c2-4b28-4570-a22f-b05be5d30a19.png" alt="LOGO"/>
+<img src="https://imgur.com/iqxPdaj.png" alt="LOGO"/>
 </p>
 
 <h1>microsoft azure subscriptions - Prerequisites and Installation</h1>
