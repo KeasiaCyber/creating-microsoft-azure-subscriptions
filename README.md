@@ -1,6 +1,6 @@
 # creating-microsoft-azure-subscriptions
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://imgur.com/ce1bf2c2-4b28-4570-a22f-b05be5d30a19" alt="LOGO"/>
 </p>
 
 <h1>microsoft azure subscriptions - Prerequisites and Installation</h1>
@@ -21,23 +21,35 @@ This tutorial outlines how to create a microsoft azure subscriptions.<br />
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/KU0Sk2L" height="80%" width="80%" alt="Resource group step 1"/>
-<img src="https://imgur.com/6Ec0yTW" height="80%" width="80%" alt="Resource group step 2"/>
-<img src="https://imgur.com/a9CUPNh" height="80%" width="80%" alt="Resource group step 3"/>
-<img src="https://imgur.com/VgA8ijU" height="80%" width="80%" alt="Resource group step 4"/>
+<img src="https://imgur.com/KU0Sk2L.png" height="80%" width="80%" alt="Resource group step 1"/>
 </p>
 <p>
-We are going to create our resource group which is like folder that holds things like a storage account or other technological groups within microsoft azure.
+<img src="https://imgur.com/6Ec0yTW.png" height="80%" width="80%" alt="Resource group step 2"/>
+</p>
+<p>
+<img src="https://imgur.com/a9CUPNh.png" height="80%" width="80%" alt="Resource group step 3"/>
+</p> 
+<p>
+<img src="https://imgur.com/VgA8ijU.png" height="80%" width="80%" alt="Resource group step 4"/>
+</p>
+<p>
+We are going to create our resource group which is like a folder that holds things like a storage account or other technological groups within microsoft azure. Click on resource group then name it, once that is done create it and it should bring you to the main menu of the resource tab.(See photos above)
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/aERYy0v" height="80%" width="80%" alt="Storage Acconnt Step 1"/>
-<img src="https://imgur.com/GoJiqsI" height="80%" width="80%" alt="Storage Acconnt Step 2"/>
-<img src="https://imgur.com/oS1JZA3" height="80%" width="80%" alt="Storage Acconnt Step 3"/>
-<img src="https://imgur.com/aERYy0v" height="80%" width="80%" alt="Storage Acconnt Step 4"/>
+<img src="https://imgur.com/aERYy0v.png" height="80%" width="80%" alt="Storage Acconnt Step 1"/>
 </p>
 <p>
-Finally we used example of what we meant by the resource group being like a folder. So lets create storage account that will be our database that stores things like documents ,but in simple terms any data we put into it. Once created, we will be able to share files with other people on our subscriptions, but it can be used for many other things aswell.
+<img src="https://imgur.com/GoJiqsI.png" height="80%" width="80%" alt="Storage Acconnt Step 2"/>
+</p>
+<p>
+<img src="https://imgur.com/oS1JZA3.png" height="80%" width="80%" alt="Storage Acconnt Step 3"/>
+</p>
+<p>
+<img src="https://imgur.com/aERYy0v.png" height="80%" width="80%" alt="Storage Acconnt Step 4"/>
+</p>
+<p>
+Finally, Lets create A storage account that will be our database that stores things like documents ,but in simple terms any data we put into it. Make sure to choose your resource group name, then name you storage account ,and make sure to choose your region and click the local option. Once created, we will be able to share files with other people on our subscriptions, but it can be used for many other things aswell.(See above photos)
 </p>
 <br />
